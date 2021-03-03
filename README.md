@@ -1,4 +1,7 @@
 # RoboMayor
+
+Running bot is @MayorRobo on twitter!
+
 Twitter bot that acts like the town mayor primarily using functionalities from the Tweepy API.
 
 Scheduled to on a daily basis look at the past 5 tweets in its timeline, retweet and favorite them, and then create two
