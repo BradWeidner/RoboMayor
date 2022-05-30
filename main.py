@@ -37,7 +37,7 @@ people = ["Fake Mayor, Gerard", "The Bonsai Lady", "Deb Armintor",
           "Guiseppe", "Frenchy", "The Denton Spiderman", "The Awful Jack Bell",
           "Chris Watts", "Brandon Chase McGee", "The Bonsai Lady"]
 
-verbs = ["jumping", "screaming", "laughing", "playing games",
+verbs = ["jumping", "screaming", "laughing", "gaming",
          "whispering", "yelling", "nodding", "running", "walking",
          "clapping", "punching", "kicking", "karate-chopping", "eating", "jogging",
          "sitting", "growling", "crawling", "squatting", "t-posing", "baking",
