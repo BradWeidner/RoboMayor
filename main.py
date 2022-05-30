@@ -29,24 +29,24 @@ places = ["Krodent", "Murder Kroger", "UNT Campus", "Denton", "TWU Campus",
           "North Branch Library", "South Branch Library", "The Golden Triangle Mall",
           "West Oak Coffee", "Dark Age Tattoo Studio", "The MLK Rec Center", "The Civic Center Pool"]
 
-people = ["Fake Mayor, Gerard,", "Deb Armintor", "Birdia Johnson", "Connie Baker",
-          "Keely Briggs", "Jesse Davis", "John Ryan", "Paul Meltzer", "The Terrible Scott Brown",
-          "Sparky Pearson", "Jason Lee", "Neal Smatresk", "Big Tony", "Albino Squirrel",
-          "Downtown Preacher", "Flat Earth Guy", "Bubbles", "Animal Head Keyboard Person",
-          "Lovely Ronald", "Mean Real Estate Lady", "Aggressive Squirrel", "Little Emilio",
-          "Guiseppe", "Frenchy", "Johnny Red", "The Denton Spiderman", "The Awful Jack Bell",
-          "College Students"]
+people = ["Fake Mayor, Gerard", "The Bonsai Lady", "Deb Armintor",
+          "Keely Briggs", "Paul Meltzer", "The Terrible Scott Brown",
+          "Sparky Pearson", "Jason Lee", "Neal Smatresk", "Big Tony", "The Albino Squirrel",
+          "Downtown Preacher", "Flat Earth Guy", "Bubbles", "Animal Head Keyboard Guy",
+          "Lovely Ronald", "A Mean Real Estate Lady", "An Aggressive Squirrel", "Little Emilio",
+          "Guiseppe", "Frenchy", "The Denton Spiderman", "The Awful Jack Bell",
+          "Chris Watts", "Brandon Chase McGee", "The Bonsai Lady"]
 
 verbs = ["jumping", "screaming", "laughing", "playing games",
          "whispering", "yelling", "nodding", "running", "walking",
          "clapping", "punching", "kicking", "karate-chopping", "eating", "jogging",
          "sitting", "growling", "crawling", "squatting", "t-posing", "baking",
          "singing", "thrashing", "dancing", "fishing", "lollygagging", "jump-roping",
-         "pitching a musical"]
+         "pitching a musical", "doing some influencer-type stuff", "t-posing"]
 
 issues = ["Lovecraftian-horror", "squirrel-infestation", "dimensional vortex",
           "glowing glyphs", "ghosts", "corporeal goatman", "Garfield cult",
-          "obsessive reboot production", "annoying Kyle kid", "the vaping enthusiasts",
+          "soggy spaghetti", "annoying Kyle kid", "the vaping enthusiasts",
           "animated inanimate objects", "spontaneous breaking out into song"]
 
 bad_things = ["misogyny", "racism", "rudeness", "apathy", "hateful rhetoric",
